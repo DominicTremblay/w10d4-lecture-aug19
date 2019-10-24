@@ -13,6 +13,8 @@ function App() {
 
     <h1>List of users</h1>
 
+    <h2>Cool!</h2>
+      
     <ul>
       {userList}
     
